@@ -1,6 +1,7 @@
 # NFL Wing Man
 ## Description
 Our project was created to help fans the NFL team debate, defend and attack other NFL fans teams.  
+https://fierce-wave-77968.herokuapp.com/
 ## Motativation
 -Our motativation was all the years that our teams have been bottom of the division and all the hate we had to put up with. We were tired of not having any facts to rebuttle our attackers with.
 ## Why
